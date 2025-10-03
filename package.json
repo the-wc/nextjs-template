@@ -11,10 +11,14 @@
     "check": "tsc --noEmit && next lint"
   },
   "dependencies": {
+    "@remotion/animation-utils": "^4.0.355",
     "@remotion/cli": "4.0.355",
     "@remotion/eslint-plugin": "4.0.355",
     "@remotion/google-fonts": "^4.0.355",
+    "@remotion/noise": "^4.0.355",
     "@remotion/paths": "^4.0.355",
+    "@remotion/shapes": "^4.0.355",
+    "@remotion/transitions": "^4.0.355",
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
