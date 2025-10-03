@@ -12,7 +12,7 @@ export const RemotionRoot: React.FC = () => {
         fps={30}
         width={1280}
         height={720}
-        defaultProps={{ title: "stranger" }}
+        defaultProps={{ title: "Default title" }}
       />
     </>
   );
