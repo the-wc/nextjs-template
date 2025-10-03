@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@remotion/cli": "4.0.355",
+    "@remotion/eslint-plugin": "4.0.355",
     "@remotion/google-fonts": "^4.0.355",
     "@remotion/paths": "^4.0.355",
     "next": "15.3.0",
